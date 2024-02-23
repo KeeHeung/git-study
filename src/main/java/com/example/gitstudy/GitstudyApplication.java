@@ -11,6 +11,7 @@ public class GitstudyApplication {
         System.out.println("modified");
         System.out.println("a");
         System.out.println("b");
+        System.out.println("d");
         SpringApplication.run(GitstudyApplication.class, args);
     }
 
