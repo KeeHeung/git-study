@@ -7,5 +7,6 @@ public class A {
         System.out.println("A");
 
         System.out.println("A");
+        System.out.println("git-hub repository name restore");
     }
 }
