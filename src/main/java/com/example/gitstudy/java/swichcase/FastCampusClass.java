@@ -1,4 +1,4 @@
-package com.example.gitstudy.java;
+package com.example.gitstudy.java.swichcase;
 
 public class FastCampusClass {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GitstudyApplication {
+public class GitStudyApplication {
 
     public static void main(String[] args) {
         System.out.println("new line");
@@ -12,7 +12,6 @@ public class GitstudyApplication {
         System.out.println("a");
         System.out.println("b");
         System.out.println("d");
-        SpringApplication.run(GitstudyApplication.class, args);
+        SpringApplication.run(GitStudyApplication.class, args);
     }
-
 }
